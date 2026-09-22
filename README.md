@@ -42,6 +42,10 @@ projeto-git-aldo-victor/
 
 Não é necessário instalar dependências.
 
+## Histórico de Comandos GIT
+
+https://docs.google.com/document/d/1cdQUaKF4rmwMb7Ni88ECTCV17jDr-f-wLlQ1soOyym8/edit?usp=sharing
+
 ## Autor
 
 Desenvolvido por **Aldo Victor** ([@aldacioso](https://github.com/aldacioso)).
