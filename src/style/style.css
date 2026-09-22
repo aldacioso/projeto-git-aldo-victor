@@ -1,0 +1,13 @@
+#nav-bar {
+  display: flex;
+  gap: 20px;
+  justify-content: end;
+  list-style-type: none;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
